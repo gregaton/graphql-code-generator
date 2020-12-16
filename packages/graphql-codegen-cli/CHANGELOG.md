@@ -1,5 +1,15 @@
 # @graphql-codegen/cli
 
+## 1.20.0
+
+### Minor Changes
+
+- a54d5c42: Add `merge` (`<<`) syntax for `yaml` configurations
+
+### Patch Changes
+
+- a54d5c42: CLI with watch option will reload using new config on change
+
 ## 1.19.4
 
 ### Patch Changes

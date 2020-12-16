@@ -1,5 +1,17 @@
 # @graphql-codegen/typescript-react-query
 
+## 0.1.2
+
+### Patch Changes
+
+- a54d5c42: Make sure mutation variables are always optional
+- a54d5c42: Respect typesPrefix for generated types.
+
+  Previously, the prefix was incorrectly applied to runtime hook names.
+
+- Updated dependencies [a54d5c42]
+  - @graphql-codegen/visitor-plugin-common@1.17.22
+
 ## 0.1.1
 
 ### Patch Changes
